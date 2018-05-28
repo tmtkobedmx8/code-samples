@@ -1,4 +1,36 @@
-h1 {
-    text-align: center;
-    font-family: Garamond !important;
-}
+/*
+    SCSS file that auto compile into css
+*/
+body {
+  font-family: Garamond !important; }
+
+.header-title {
+  text-align: center;
+  color: #8EE4AF; }
+
+.first .paragraph {
+  background-color: cornflowerblue;
+  color: azure;
+  font-size: 18px;
+  text-align: center;
+  padding: 5px;
+  border: 3px solid #eee;
+  height: auto; }
+
+.first .pic-container {
+  text-align: center;
+  width: 50%;
+  margin: 0 auto; }
+  .first .pic-container .black-ops {
+    color: black;
+    background-color: white;
+    max-width: 100%; }
+
+.second p {
+  background-color: cornflowerblue;
+  color: azure;
+  font-size: 18px;
+  text-align: center;
+  padding: 5px;
+  border: 3px solid #eee;
+  height: auto; }
