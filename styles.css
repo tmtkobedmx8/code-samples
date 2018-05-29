@@ -5,9 +5,10 @@ body {
   font-family: Garamond !important; }
 
 .header-title {
+  display: none;
   text-align: center;
   color: #AC3B61;
-  margin: 20% auto;
+  margin: 2% auto;
   width: 50%; }
 
 .main {
