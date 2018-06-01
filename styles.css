@@ -42,6 +42,27 @@ body {
       background-color: white;
       max-width: 100%; }
 
+.formulaire {
+  max-width: 50%;
+  margin: 20% auto; }
+  .formulaire .row {
+    max-width: 100%;
+    height: 35%;
+    border: 1px solid #eee; }
+    .formulaire .row .col {
+      margin: 35px auto;
+      max-width: 100%; }
+    .formulaire .row .submit {
+      position: relative;
+      left: 32%;
+      top: -10px;
+      width: 200px;
+      margin: 0 auto;
+      text-align: center; }
+  .formulaire .form-control {
+    max-width: 50%;
+    margin: 0 auto; }
+
 .second p {
   background-color: cornflowerblue;
   color: azure;
